@@ -1,159 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=RAJIV%20MENON%20B&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:0f172a,50:312e81,100:7c3aed&fontAlignY=40" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     HERO SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:111827,75:312e81,100:7c3aed&text=RAJIV%20MENON%20B&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;AI+%26+LLM+Explorer+%F0%9F%A4%96;Java+%7C+Python+%7C+React+%7C+Spring+Boot;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPER;UI%2FUX+ENTHUSIAST;AI+%26+LLM+EXPLORER;BUILDING+IDEAS+INTO+REALITY;CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190"/>
+<!-- Animated Cat -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
 
+<br><br>
+
+<code>Computer Science Engineering Student</code>
 <br>
-
-### 🐾 `WELCOME TO MY DIGITAL SPACE`
-
-<i>Where code meets creativity, curiosity meets technology, and every bug becomes a lesson.</i>
+<code>Java • Python • React • Spring Boot • AI</code>
 
 <br><br>
 
 <a href="https://github.com/RajivMenonB">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0B0F19?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="mailto:rajivmenon04042007@gmail.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0B0F19?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F19?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-## 🧊 `ABOUT ME`
-
-</div>
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### 👋 Hey, I'm Rajiv Menon B
-
-I'm a **Computer Science Engineering student** passionate about building software, exploring artificial intelligence, and designing clean digital experiences.
-
-I enjoy taking an idea from:
-
-`💡 Idea → 🎨 Design → 💻 Code → 🧪 Test → 🚀 Build`
-
-### ✦ What I Love
-
-- 💻 Software Development
-- 🎨 UI/UX & Frontend Development
-- 🤖 Artificial Intelligence & LLMs
-- 🧠 AI Agents & Automation
-- ☕ Java & Python
-- 🌐 Web Applications
-- 🔧 Backend Development
-- 🌱 Learning new technologies
-- 🐱 Cats + Code
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9xM3B5M2d0b2J3b2F4eG1xN2V5Z3J3c3M5bWZ3ZzN6b3M4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="240"/>
-
-<br><br>
-
-`🐱 + 💻 = ❤️`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🧊 `TECHNOLOGY UNIVERSE`
 
 <br>
 
-### 💻 LANGUAGES
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    GLASS INTRO                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-
-<br><br>
-
-### 🌐 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-
-<br><br>
-
-### ⚙️ BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,firebase" />
-
-<br><br>
-
-### 🛠️ TOOLS & DESIGN
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 `FEATURED PROJECTS`
-
-</div>
-
-<table>
+<table align="center">
 <tr>
+<td width="65%" valign="top">
 
-<td width="50%" valign="top">
+<h2>◈  Hello, I'm Rajiv.</h2>
 
-### ⚡ Electricity Usage Calculator
+I'm a **Computer Science Engineering student** who enjoys building software that combines **technology, creativity and intelligent systems**.
 
-A Java console application designed to calculate electricity consumption and estimate electricity bills based on appliance usage.
+I like taking an idea and turning it into something people can actually use.
 
-**Built with**
-
-`Java`
-
-**Focus**
-
-`Logic` · `Calculations` · `Console Application`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Agent Loop AI
-
-An AI development project exploring autonomous reasoning and self-correction.
+<br>
 
 ```text
-PROMPT
-  ↓
-REASON
-  ↓
-TOOL
-  ↓
-OBSERVE
-  ↓
-FIX
-  ↓
-REPEAT
+     THINK
+       ↓
+     DESIGN
+       ↓
+      CODE
+       ↓
+      TEST
+       ↓
+     DEBUG
+       ↓
+     CREATE
+       ↓
+      SHIP
