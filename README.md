@@ -1,71 +1,55 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     HERO SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                         HERO                                  -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:111827,75:312e81,100:7c3aed&text=RAJIV%20MENON%20B&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0f172a,65:312e81,100:06b6d4&text=RAJIV%20MENON%20B&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPER;UI%2FUX+ENTHUSIAST;AI+%26+LLM+EXPLORER;BUILDING+IDEAS+INTO+REALITY;CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=SOFTWARE+DEVELOPER;AI+%26+LLM+EXPLORER;UI%2FUX+ENTHUSIAST;JAVA+%7C+PYTHON+%7C+REACT;BUILDING+THINGS+THAT+SHOULD+EXIST" />
 
 <br><br>
 
-<!-- Animated Cat -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="155"/>
 
-<br><br>
-
-<code>Computer Science Engineering Student</code>
 <br>
-<code>Java • Python • React • Spring Boot • AI</code>
+
+<sub>🐾 somewhere between a keyboard and a cat</sub>
 
 <br><br>
 
 <a href="https://github.com/RajivMenonB">
-<img src="https://img.shields.io/badge/GITHUB-0B0F19?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:rajivmenon04042007@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B0F19?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0F19?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    GLASS INTRO                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      INTRO                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table align="center">
+<table>
 <tr>
-<td width="65%" valign="top">
 
-<h2>◈  Hello, I'm Rajiv.</h2>
+<td width="58%" valign="top">
 
-I'm a **Computer Science Engineering student** who enjoys building software that combines **technology, creativity and intelligent systems**.
+## `hello, world.`
 
-I like taking an idea and turning it into something people can actually use.
+### I'm **Rajiv Menon B** 👋
 
-<br>
+I'm a **Computer Science Engineering student** who enjoys turning ideas into software.
+
+I like working at the intersection of:
 
 ```text
-     THINK
-       ↓
-     DESIGN
-       ↓
-      CODE
-       ↓
-      TEST
-       ↓
-     DEBUG
-       ↓
-     CREATE
-       ↓
-      SHIP
+          SOFTWARE
+             ×
+           DESIGN
+             ×
+             AI
+             ×
+          INNOVATION
